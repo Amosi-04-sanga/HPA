@@ -14,7 +14,7 @@ const Hero = () => {
         
             <Fade>
               <p className="mt-4 text-white font-[900] text-[40px]">
-              HEALTH PROMOTION <br/> ALLIANCE
+              HEALTH PROMOTION <br/> ALLIANCE amo
               </p>
             </Fade>
           </div>
