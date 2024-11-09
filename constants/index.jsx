@@ -61,7 +61,7 @@ export const FooterLinks = [
 export const navLinks = [
   {
     route: "/",
-    label: "truth",
+    label: "Home",
   },
   {
     route: "#news",
